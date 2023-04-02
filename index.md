@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm learning how to blog on GitHub! I'll probably talk about data visualisation here eventually!
